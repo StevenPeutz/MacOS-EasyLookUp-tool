@@ -1,6 +1,6 @@
-Shortcutting manually translating in Mac OS Catalina (regardless of browser)
+# Shortcutting manually translating in Mac OS Catalina (regardless of browser) #
 
-How to set it up;</br>
+### How to set it up; ###
 The Google translate part</br>
 
 1. Open up 'Automator' (open spotlight (⌘+ Spacebar) and then search for 'automator')
@@ -12,6 +12,7 @@ The Google translate part</br>
 [step 3 screenshot](/Images/Step3-screenshot.png)
 5. Now replace the code in the 'run applescript' with the following;
 
+```
 on run {input, parameters}
  set output to "http://translate.google.com/translate_t?sl=auto&tl=en&text=" & urldecode(input as string)
  return output
@@ -20,7 +21,7 @@ on urldecode(x)
  set cmd to "'require \"cgi\"; puts CGI.escape(STDIN.read.chomp)'"
  do shell script "echo " & quoted form of x & " | ruby -e " & cmd
 end urldecode
-
+```
 
 Change 'Workflow receives current' from 'nothing/default' to 'text'.
 The parameter 'tl' is here set to 'en' (english) but this can be replaced to language of choice (just look up the google translate language code (find here)). Do not change the 'sl' parameter value though!
@@ -49,7 +50,7 @@ And you are done with the google translate one.</br>
 
 ---
 
-##The Urban Dictionary part *(optional)*##
+## The Urban Dictionary part *(optional)* ##
 1. Same as above, repeat step 1, 2,3, 4 and 5.
 But the code for step 5 is:
 
@@ -73,7 +74,7 @@ Go to 'file' and 'save' (in the menu bar) and then you can give your workflow sc
 ---
 
 
-##Optional part;##
+## Creating a sequence *(optional)* ##
 creating a combination (sequence) of both;
 Now you can also create a script now that invokes both these scripts in a sequence, for when you do not know if it is a slang a just a different language, and assign this to ⇧⌘C.
 
@@ -85,7 +86,7 @@ Repeat 1 and 2 -again- but now find and pull your two existing scripts (OuiOuiBa
 
 
 
-##Done##
+## Done ##
 
 - highlight text + ⇧⌘Z = google translate
 - highlight text + ⇧⌘X = urban dictionary
@@ -94,7 +95,7 @@ Repeat 1 and 2 -again- but now find and pull your two existing scripts (OuiOuiBa
 
 
 ---
-###FAQ###
+## FAQ ##
 
 **Where are the script located after saving etc?**</br>
 Finder > Home > Library > Services. (If there is no 'Library' folder within your 'Home' folder, go to your home folder and fo to 'view' in the menubar and click 'show view options' and select the option to display the Library folder.)
