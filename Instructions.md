@@ -45,7 +45,7 @@ Make sure the box for the script is ticked and create a shortcut (where it says 
 It should look more or less like this: [step 5 screenshot](/Images/Step5-screenshot.png)
 </br>
 
-**And you are done with the google translate script shortkey.**</br> 
+And you are done with the google translate script shortkey.</br> 
 </br>
 *To test just highlight some text in your browser and then press* ⇧⌘Z.
 </br>
@@ -83,7 +83,6 @@ This should look like this: [step 7 screenshot](/Images/Step7-optional.png)
 
  Go to 'file' and 'save' (in the menu bar) and then you can give this 3rd workflow script a name (e.g. BabelFish.workflow (because one should always use a hitchhiker's guide reference when even somewhat possible :P )) and save it.</br>
 </br>
----
 </br>
 
 ## Done ##
@@ -96,6 +95,8 @@ This should look like this: [step 7 screenshot](/Images/Step7-optional.png)
 </br>
 ---
 </br>
+
+
 ## FAQ ##
 
 **Where are the script located after saving etc?**</br>
