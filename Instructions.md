@@ -38,11 +38,11 @@ Under Keyboard click the tab named 'shortcuts' and in the left column select 'se
 Now in the right under the subheader 'text' you should have your script listed there un the name you have given it (OuiOuiBaguette in my case).</br>
 Make sure the box for the script is ticked and create a shortcut (where it says 'none') . Surprisingly much shortcuts (especially within chrome) are reserved already which will overrule the one you create here, making it not work! I know ⇧⌘Z (Shift+Command+Z) is free in chrome and safari and MacOS itself. Choosing ⇧⌘Z would allow you to use the one next to it (⇧⌘X) for slang (urban dictionary) and the one next to that (⇧⌘C ) for both in sequence.
 
-It should look more or less like this:</br>
-[step 5 screenshot](/Images/Step5-screenshot.png)
+It should look more or less like this: [step 5 screenshot](/Images/Step5-screenshot.png)
+</br>
 
 **And you are done with the google translate script shortkey.**</br> 
-*To test just highlight some text in your browser and then press* **⇧⌘Z.**
+*To test just highlight some text in your browser and then press* ⇧⌘Z.
 </br>
 ---
 
