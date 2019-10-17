@@ -1,13 +1,13 @@
 Shortcutting manually translating in Mac OS Catalina (regardless of browser)
 
-How to set it up;
-The Google translate part
+How to set it up;</br>
+The Google translate part</br>
 
 1. Open up 'Automator' (open spotlight (⌘+ Spacebar) and then search for 'automator')
-2. Select 'Quick Action' in the opening screen (and click 'Choose':
-// image 1
+2. Select 'Quick Action' in the opening screen, and click 'Choose':</br>
+[step 1 screenshot](/Images/Step1.png)
 3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right. It should look like this:
-// image 2
+[step 2 screenshot](/Images/Step2.png)
 4. Do the same again but instead of 'run applescript' search for 'website popup' and drag it underneath your 'run applescript' on the canvas. It should like like this:
 // image 3
 5. Now replace the code in the 'run applescript' with the following;
