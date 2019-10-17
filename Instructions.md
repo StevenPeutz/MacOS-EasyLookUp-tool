@@ -6,10 +6,10 @@ The Google translate part</br>
 1. Open up 'Automator' (open spotlight (⌘+ Spacebar) and then search for 'automator')
 2. Select 'Quick Action' in the opening screen, and click 'Choose': </br>
 This should look like this: [step 1 screenshot](/Images/Step1-screenshot.png)
-3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right. It should look like this:</br>
-[step 2 screenshot](/Images/Step2-screenshot.png)
-4. Do the same again but instead of 'run applescript' search for 'website popup' and drag it underneath your 'run applescript' on the canvas. It should like like this:</br>
-[step 3 screenshot](/Images/Step3-screenshot.png)
+3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right.</br> 
+It should look like this: [step 2 screenshot](/Images/Step2-screenshot.png)
+4. Do the same again but instead of 'run applescript' search for 'website popup' and drag it underneath your 'run applescript' on the canvas.</br> 
+It should like like this: [step 3 screenshot](/Images/Step3-screenshot.png)
 5. Now replace the code in the 'run applescript' with the following;
 
 ```
@@ -76,11 +76,10 @@ It should look like this:</br>
 creating a combination (sequence) of both;
 Now you can also create a script now that invokes both these scripts in a sequence, for when you do not know if it is a slang a just a different language, and assign this to ⇧⌘C.
 
-Repeat 1 and 2 -again- but now find and pull your two existing scripts (OuiOuiBaguette.workflow and Cardi_B_said.workflow from the left column to the right (where before we put the 'run applescript' and the 'website popup')
+Repeat 1 and 2 -again- but now find and pull your two existing scripts (OuiOuiBaguette.workflow and Cardi_B_said.workflow from the left column to the right (where before we put the 'run applescript' and the 'website popup')</br>
+This should look like this: [step 7 screenshot](/Images/Step7-optional.png)
 
-[step 7 screenshot](/Images/Step7-optional.png)
-
- Go to 'file' and 'save' (in the menu bar) and then you can give this 3rd workflow script a name (e.g. BabelFish.workflow (because one should always use a hitchhiker's guide reference when even somewhat possible :P )) and save it.
+ Go to 'file' and 'save' (in the menu bar) and then you can give this 3rd workflow script a name (e.g. BabelFish.workflow (because one should always use a hitchhiker's guide reference when even somewhat possible :P )) and save it.</br>
 
 
 
