@@ -9,7 +9,7 @@ The Google translate part</br>
 3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right. It should look like this:
 [step 2 screenshot](/Images/Step2.png)
 4. Do the same again but instead of 'run applescript' search for 'website popup' and drag it underneath your 'run applescript' on the canvas. It should like like this:
-// image 3
+[step 3 screenshot](/Images/Step3.png)
 5. Now replace the code in the 'run applescript' with the following;
 
 on run {input, parameters}
@@ -30,7 +30,7 @@ Go to 'file' and 'save' (in the menu bar) and then you can give your workflow sc
 
 You should have the following:
 
-// image 4
+[step 4 screenshot](/Images/Step4.png)
 
  (The green checkmarks come after running the script. If you have a red one for 'Workflow completed', run the script again and use 'close' instead of 'cancel' in the website popup (or just ignore it all together).
 
@@ -42,7 +42,7 @@ Make sure the box for the script is ticked and create a shortcut (where it says 
 
 It should look more or less like this:
 
-// image 5
+[step 5 screenshot](/Images/Step5.png)
 
 And you are done with the google translate one. To test just highlight some text in your browser and then press ⇧⌘Z.
 
@@ -63,7 +63,7 @@ end urldecode
 
 Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. Cardi_B_said.workflow) and save it.
 
-Insert image 6
+[step 6 screenshot](/Images/Step6.png)
 
 2. repeat step 6 and create the (⇧⌘X) shortkey.
 
@@ -76,7 +76,7 @@ Now you can also create a script now that invokes both these scripts in a sequen
 
 Repeat 1 and 2 -again- but now find and pull your two existing scripts (OuiOuiBaguette.workflow and Cardi_B_said.workflow from the left column to the right (where before we put the 'run applescript' and the 'website popup')
 
-// image 7
+[step 7 screenshot](/Images/Step7.png)
 
  Go to 'file' and 'save' (in the menu bar) and then you can give this 3rd workflow script a name (e.g. BabelFish.workflow (because one should always use a hitchhiker's guide reference when even somewhat possible :P )) and save it.
 
