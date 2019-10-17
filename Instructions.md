@@ -34,7 +34,7 @@ Also you probably want to decrease the size of the popup for convenience (just c
 Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. OuiOuiBaguette.workflow) and save it.</br>
 
 You should have the following: [step 4 screenshot](/Images/Step4-screenshot.png)</br>
-(The green checkmarks come after running the script. If you have a red one for 'Workflow completed', run the script again and use 'close' instead of 'cancel' in the website popup (or just ignore it all together).</br>
+*(The green checkmarks come after running the script. If you have a red one for 'Workflow completed', run the script again and use 'close' instead of 'cancel' in the website popup (or just ignore it all together).*</br>
 
 
 6. Go to System Preferences > Keyboard</br>
@@ -93,6 +93,7 @@ This should look like this: [step 7 screenshot](/Images/Step7-optional.png)
 </br>
 </br>
 ---
+</br>
 ## FAQ ##
 
 **Where are the script located after saving etc?**</br>
