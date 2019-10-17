@@ -44,10 +44,13 @@ Make sure the box for the script is ticked and create a shortcut (where it says 
 
 It should look more or less like this: [step 5 screenshot](/Images/Step5-screenshot.png)
 </br>
+</br>
 **And you are done!**</br>
-You can test your new tool by selecting (i.e. 'highlighting') some text and pressing ⇧⌘Z 
+</br>
+You can test your new tool by selecting (i.e. 'highlighting') some text and pressing ⇧⌘Z </br>
 </br>
 # done #
+</br>
 </br>
 
 
