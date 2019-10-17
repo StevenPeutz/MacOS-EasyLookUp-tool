@@ -44,12 +44,12 @@ Make sure the box for the script is ticked and create a shortcut (where it says 
 
 It should look more or less like this: [step 5 screenshot](/Images/Step5-screenshot.png)
 </br>
+**And you are done!**</br>
+You can test your new tool by selecting (i.e. 'highlighting') some text and pressing ⇧⌘Z 
+</br>
+# done #
+</br>
 
-And you are done with the google translate script shortkey.</br> 
-</br>
-*To test just highlight some text in your browser and then press* ⇧⌘Z.
-</br>
----
 
 ## The Urban Dictionary part *(optional)* ##
 1. Same as above, repeat step 1, 2,3, 4 and 5.
