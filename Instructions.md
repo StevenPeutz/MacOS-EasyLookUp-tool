@@ -5,11 +5,11 @@ The Google translate part</br>
 
 1. Open up 'Automator' (open spotlight (⌘+ Spacebar) and then search for 'automator')
 2. Select 'Quick Action' in the opening screen, and click 'Choose':</br>
-[step 1 screenshot](/Images/Step1.png)
+[step 1 screenshot](/Images/Step1-screenshot.png)
 3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right. It should look like this:
-[step 2 screenshot](/Images/Step2.png)
+[step 2 screenshot](/Images/Step2-screenshot.png)
 4. Do the same again but instead of 'run applescript' search for 'website popup' and drag it underneath your 'run applescript' on the canvas. It should like like this:
-[step 3 screenshot](/Images/Step3.png)
+[step 3 screenshot](/Images/Step3-screenshot.png)
 5. Now replace the code in the 'run applescript' with the following;
 
 on run {input, parameters}
@@ -30,7 +30,7 @@ Go to 'file' and 'save' (in the menu bar) and then you can give your workflow sc
 
 You should have the following:
 
-[step 4 screenshot](/Images/Step4.png)
+[step 4 screenshot](/Images/Step4-screenshot.png)
 
  (The green checkmarks come after running the script. If you have a red one for 'Workflow completed', run the script again and use 'close' instead of 'cancel' in the website popup (or just ignore it all together).
 
@@ -42,16 +42,18 @@ Make sure the box for the script is ticked and create a shortcut (where it says 
 
 It should look more or less like this:
 
-[step 5 screenshot](/Images/Step5.png)
+[step 5 screenshot](/Images/Step5-screenshot.png)
 
-And you are done with the google translate one. To test just highlight some text in your browser and then press ⇧⌘Z.
+And you are done with the google translate one.</br> 
+*To test just highlight some text in your browser and then press* **⇧⌘Z.**
 
 ---
 
-The Urban Dictionary part
+##The Urban Dictionary part *(optional)*##
 1. Same as above, repeat step 1, 2,3, 4 and 5.
 But the code for step 5 is:
 
+```
 on run {input, parameters}
 set output to "https://www.urbandictionary.com/define.php?term=" & urldecode(input as string)
 return output
@@ -60,42 +62,43 @@ on urldecode(x)
 set cmd to "'require \"cgi\"; puts CGI.escape(STDIN.read.chomp)'"
 do shell script "echo " & quoted form of x & " | ruby -e " & cmd
 end urldecode
+```
 
 Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. Cardi_B_said.workflow) and save it.
 
-[step 6 screenshot](/Images/Step6.png)
+[step 6 screenshot](/Images/Step6-optional.png)
 
 2. repeat step 6 and create the (⇧⌘X) shortkey.
 
 ---
 
 
-Optional part;
+##Optional part;##
 creating a combination (sequence) of both;
 Now you can also create a script now that invokes both these scripts in a sequence, for when you do not know if it is a slang a just a different language, and assign this to ⇧⌘C.
 
 Repeat 1 and 2 -again- but now find and pull your two existing scripts (OuiOuiBaguette.workflow and Cardi_B_said.workflow from the left column to the right (where before we put the 'run applescript' and the 'website popup')
 
-[step 7 screenshot](/Images/Step7.png)
+[step 7 screenshot](/Images/Step7-optional.png)
 
  Go to 'file' and 'save' (in the menu bar) and then you can give this 3rd workflow script a name (e.g. BabelFish.workflow (because one should always use a hitchhiker's guide reference when even somewhat possible :P )) and save it.
 
 
 
-Done
+##Done##
 
-highlight text + ⇧⌘Z = google translate
-highlight text + ⇧⌘X = urban dictionary
-highlight text + ⇧⌘C = google translate followed by urban dictionary (while remembering original highlight as input)
+- highlight text + ⇧⌘Z = google translate
+- highlight text + ⇧⌘X = urban dictionary
+- highlight text + ⇧⌘C = google translate followed by urban dictionary (while remembering original highlight as input)
 
 
 
 ---
+###FAQ###
 
-
-Where are the script located after saving etc?
+**Where are the script located after saving etc?**</br>
 Finder > Home > Library > Services. (If there is no 'Library' folder within your 'Home' folder, go to your home folder and fo to 'view' in the menubar and click 'show view options' and select the option to display the Library folder.)
 
-I want the google translation to be in some other language than English.
-The parameter 'tl' is here set to 'en' (english) but this can be replaced to language of choice (just look up the google translate language code (find here)) and change it in the script.
+**I want the google translation to be in some other language than English.**</br>
+The parameter 'tl' is here set to 'en' (english) but this can be replaced to language of choice (just look up the google translate language code (find here)) and change it in the script.</br>
  set output to "http://translate.google.com/translate_t?sl=auto&tl=en&text=".....
