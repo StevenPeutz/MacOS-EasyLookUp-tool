@@ -54,7 +54,7 @@ You can test your new tool by selecting (i.e. 'highlighting') some text and pres
 </br>
 
 
-## The Urban Dictionary part *(optional)* ##
+## Expand by adding Urban Dictionary *(optional)* ##
 1. Same as above, repeat step 1, 2,3, 4 and 5.
 But the code for step 5 is:
 
@@ -77,7 +77,7 @@ It should look like this: [step 6 screenshot](/Images/Step6-optional.png)</br>
 ---
 
 
-## Creating a sequence *(optional)* ##
+## Expand further by creating a sequence *(optional)* ##
 creating a combination (sequence) of both;
 Now you can also create a script now that invokes both these scripts in a sequence, for when you do not know if it is a slang a just a different language, and assign this to ⇧⌘C.
 
