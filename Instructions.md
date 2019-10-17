@@ -6,7 +6,6 @@ The Google translate part</br>
 1. Open up 'Automator' (open spotlight (⌘+ Spacebar) and then search for 'automator')</br>
 
 2. Select 'Quick Action' in the opening screen, and click 'Choose': </br>
-
 This should look like this: [step 1 screenshot](/Images/Step1-screenshot.png)</br>
 
 3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right.</br> 
