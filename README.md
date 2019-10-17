@@ -1,7 +1,6 @@
 # MacOS-easy_translate
 Script and instructions to create **google translate shortkey for MacOS** that works on High-Sierra and Catalina. </br>
 No more copy pasting, opening a browser tab , going to google translate etc etc. </br>MacOS Automator script (worklfow) + google translate(+urban dictionary) + shortkey binding.</br>
-*Works in Chrome, Safari, Firefox and Brave (and most other non-browser applications depending on reserved keybindings)*
 </br>
 Easy as pie :)
 </br>
@@ -25,3 +24,6 @@ on urldecode(x)
  do shell script "echo " & quoted form of x & " | ruby -e " & cmd
 end urldecode
 ```
+
+</br>
+*Works in Chrome, Safari, Firefox and Brave (and most other non-browser applications depending on reserved keybindings)*
