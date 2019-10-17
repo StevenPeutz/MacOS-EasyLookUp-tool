@@ -6,7 +6,7 @@ No more copy pasting, opening a browser tab , going to google translate etc etc.
 Easy as pie :)
 </br>
 </br>
-See 'Instructions' for</br>
+See ['Instructions'](/Instructions.md) for</br>
 - how to get started and set everything up in Mac OS automator (with screenshots)
 - the actual code and what parameters to change (if any)
 - how to link it to the shortkey combinations (with screenshots)
