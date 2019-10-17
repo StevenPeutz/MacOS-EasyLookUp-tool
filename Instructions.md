@@ -4,11 +4,11 @@
 The Google translate part</br>
 
 1. Open up 'Automator' (open spotlight (⌘+ Spacebar) and then search for 'automator')
-2. Select 'Quick Action' in the opening screen, and click 'Choose':</br>
-[step 1 screenshot](/Images/Step1-screenshot.png)
-3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right. It should look like this:
+2. Select 'Quick Action' in the opening screen, and click 'Choose': </br>
+This should look like this: [step 1 screenshot](/Images/Step1-screenshot.png)
+3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right. It should look like this:</br>
 [step 2 screenshot](/Images/Step2-screenshot.png)
-4. Do the same again but instead of 'run applescript' search for 'website popup' and drag it underneath your 'run applescript' on the canvas. It should like like this:
+4. Do the same again but instead of 'run applescript' search for 'website popup' and drag it underneath your 'run applescript' on the canvas. It should like like this:</br>
 [step 3 screenshot](/Images/Step3-screenshot.png)
 5. Now replace the code in the 'run applescript' with the following;
 
@@ -29,25 +29,23 @@ Also you probably want to decrease the size of the popup for convenience (just c
 
 Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. OuiOuiBaguette.workflow) and save it.
 
-You should have the following:
-
+You should have the following:</br>
 [step 4 screenshot](/Images/Step4-screenshot.png)
 
  (The green checkmarks come after running the script. If you have a red one for 'Workflow completed', run the script again and use 'close' instead of 'cancel' in the website popup (or just ignore it all together).
 
 
-6. Go to System Preferences > Keyboard
+6. Go to System Preferences > Keyboard</br>
 Under Keyboard click the tab named 'shortcuts' and in the left column select 'services'.
-Now in the right under the subheader 'text' you should have your script listed there un the name you have given it (OuiOuiBaguette in my case).
+Now in the right under the subheader 'text' you should have your script listed there un the name you have given it (OuiOuiBaguette in my case).</br>
 Make sure the box for the script is ticked and create a shortcut (where it says 'none') . Surprisingly much shortcuts (especially within chrome) are reserved already which will overrule the one you create here, making it not work! I know ⇧⌘Z (Shift+Command+Z) is free in chrome and safari and MacOS itself. Choosing ⇧⌘Z would allow you to use the one next to it (⇧⌘X) for slang (urban dictionary) and the one next to that (⇧⌘C ) for both in sequence.
 
-It should look more or less like this:
-
+It should look more or less like this:</br>
 [step 5 screenshot](/Images/Step5-screenshot.png)
 
-And you are done with the google translate one.</br> 
+**And you are done with the google translate script shortkey.**</br> 
 *To test just highlight some text in your browser and then press* **⇧⌘Z.**
-
+</br>
 ---
 
 ## The Urban Dictionary part *(optional)* ##
@@ -65,12 +63,12 @@ do shell script "echo " & quoted form of x & " | ruby -e " & cmd
 end urldecode
 ```
 
-Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. Cardi_B_said.workflow) and save it.
-
+Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. Cardi_B_said.workflow) and save it.</br>
+It should look like this:</br>
 [step 6 screenshot](/Images/Step6-optional.png)
 
-2. repeat step 6 and create the (⇧⌘X) shortkey.
-
+2. repeat step 6 to create the (⇧⌘X) shortkey for your urban dictionary loopup script.</br>
+</br>
 ---
 
 
