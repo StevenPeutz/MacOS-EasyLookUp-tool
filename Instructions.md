@@ -24,15 +24,13 @@ end urldecode
 ```
 
 Change 'Workflow receives current' from 'nothing/default' to 'text'.
-The parameter 'tl' is here set to 'en' (english) but this can be replaced to language of choice (just look up the google translate language code (find here)). Do not change the 'sl' parameter value though!
+The parameter 'tl' is here set to 'en' (english) but this can be replaced to language of choice (just look up the google translate language code [find here](https://cloud.google.com/translate/docs/languages). Do not change the 'sl' parameter value though!</br>
 Also you probably want to decrease the size of the popup for convenience (just change 'Site Size' from Large to Medium with the drop down menu in the Website popup widget in the canvas)
 
-Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. OuiOuiBaguette.workflow) and save it.
+Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. OuiOuiBaguette.workflow) and save it.</br>
 
-You should have the following:</br>
-[step 4 screenshot](/Images/Step4-screenshot.png)
-
- (The green checkmarks come after running the script. If you have a red one for 'Workflow completed', run the script again and use 'close' instead of 'cancel' in the website popup (or just ignore it all together).
+You should have the following: [step 4 screenshot](/Images/Step4-screenshot.png)</br>
+(The green checkmarks come after running the script. If you have a red one for 'Workflow completed', run the script again and use 'close' instead of 'cancel' in the website popup (or just ignore it all together).</br>
 
 
 6. Go to System Preferences > Keyboard</br>
