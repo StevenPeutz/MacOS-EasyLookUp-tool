@@ -26,4 +26,4 @@ end urldecode
 ```
 
 </br>
-*Works in Chrome, Safari, Firefox and Brave (and most other non-browser applications depending on reserved keybindings)*
+* Works in Chrome, Safari, Firefox and Brave (and most other non-browser applications depending on reserved keybindings) *
