@@ -46,6 +46,7 @@ It should look more or less like this: [step 5 screenshot](/Images/Step5-screens
 </br>
 
 **And you are done with the google translate script shortkey.**</br> 
+</br>
 *To test just highlight some text in your browser and then press* ⇧⌘Z.
 </br>
 ---
@@ -82,10 +83,11 @@ This should look like this: [step 7 screenshot](/Images/Step7-optional.png)
 
  Go to 'file' and 'save' (in the menu bar) and then you can give this 3rd workflow script a name (e.g. BabelFish.workflow (because one should always use a hitchhiker's guide reference when even somewhat possible :P )) and save it.</br>
 </br>
+---
 </br>
 
 ## Done ##
-</br>
+
 - highlight text + ⇧⌘Z = google translate</br>
 - highlight text + ⇧⌘X = urban dictionary</br>
 - highlight text + ⇧⌘C = google translate followed by urban dictionary (while remembering original highlight as input)</br>
