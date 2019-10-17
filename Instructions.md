@@ -4,12 +4,17 @@
 The Google translate part</br>
 
 1. Open up 'Automator' (open spotlight (⌘+ Spacebar) and then search for 'automator')</br>
+
 2. Select 'Quick Action' in the opening screen, and click 'Choose': </br>
+
 This should look like this: [step 1 screenshot](/Images/Step1-screenshot.png)</br>
+
 3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right.</br> 
 It should look like this: [step 2 screenshot](/Images/Step2-screenshot.png)</br>
+
 4. Do the same again but instead of 'run applescript' search for 'website popup' and drag it underneath your 'run applescript' on the canvas.</br> 
 It should like like this: [step 3 screenshot](/Images/Step3-screenshot.png)</br>
+
 5. Now replace the code in the 'run applescript' with the following;
 
 ```
@@ -62,8 +67,7 @@ end urldecode
 ```
 
 Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. Cardi_B_said.workflow) and save it.</br>
-It should look like this:</br>
-[step 6 screenshot](/Images/Step6-optional.png)
+It should look like this: [step 6 screenshot](/Images/Step6-optional.png)</br>
 
 2. repeat step 6 to create the (⇧⌘X) shortkey for your urban dictionary loopup script.</br>
 </br>
@@ -83,9 +87,9 @@ This should look like this: [step 7 screenshot](/Images/Step7-optional.png)
 
 ## Done ##
 </br>
-- highlight text + ⇧⌘Z = google translate
-- highlight text + ⇧⌘X = urban dictionary
-- highlight text + ⇧⌘C = google translate followed by urban dictionary (while remembering original highlight as input)
+- highlight text + ⇧⌘Z = google translate</br>
+- highlight text + ⇧⌘X = urban dictionary</br>
+- highlight text + ⇧⌘C = google translate followed by urban dictionary (while remembering original highlight as input)</br>
 </br>
 </br>
 </br>
