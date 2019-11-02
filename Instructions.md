@@ -10,10 +10,12 @@ This should look like this:
 ![step 1 screenshot](/Images/Step1-screenshot.png)
 
 3. Now use the search field above the second column on the left, use it to search for 'run applescript'. Once found drag 'run applescript' to the empty canvas on the right.</br> 
-It should look like this: [step 2 screenshot](/Images/Step2-screenshot.png)</br>
+It should look like this: 
+![step 2 screenshot](/Images/Step2-screenshot.png)
 
 4. Do the same again but instead of 'run applescript' search for 'website popup' and drag it underneath your 'run applescript' on the canvas.</br> 
-It should like like this: [step 3 screenshot](/Images/Step3-screenshot.png)</br>
+It should like like this: 
+![step 3 screenshot](/Images/Step3-screenshot.png)
 
 5. Now replace the code in the 'run applescript' with the following;
 
@@ -34,7 +36,8 @@ Also you probably want to decrease the size of the popup for convenience (just c
 
 Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. OuiOuiBaguette.workflow) and save it.</br>
 
-You should have the following: [step 4 screenshot](/Images/Step4-screenshot.png)</br>
+You should have the following: 
+![step 4 screenshot](/Images/Step4-screenshot.png)
 *(The green checkmarks come after running the script. If you have a red one for 'Workflow completed', run the script again and use 'close' instead of 'cancel' in the website popup (or just ignore it all together).*</br>
 
 
@@ -43,7 +46,8 @@ Under Keyboard click the tab named 'shortcuts' and in the left column select 'se
 Now in the right under the subheader 'text' you should have your script listed there un the name you have given it (OuiOuiBaguette in my case).</br>
 Make sure the box for the script is ticked and create a shortcut (where it says 'none') . Surprisingly much shortcuts (especially within chrome) are reserved already which will overrule the one you create here, making it not work! I know ⇧⌘Z (Shift+Command+Z) is free in chrome and safari and MacOS itself. Choosing ⇧⌘Z would allow you to use the one next to it (⇧⌘X) for slang (urban dictionary) and the one next to that (⇧⌘C ) for both in sequence.
 
-It should look more or less like this: [step 5 screenshot](/Images/Step5-screenshot.png)
+It should look more or less like this: 
+![step 5 screenshot](/Images/Step5-screenshot.png)
 </br>
 </br>
 **And you are done!**</br>
@@ -71,7 +75,8 @@ end urldecode
 ```
 
 Go to 'file' and 'save' (in the menu bar) and then you can give your workflow script a name (e.g. Cardi_B_said.workflow) and save it.</br>
-It should look like this: [step 6 screenshot](/Images/Step6-optional.png)</br>
+It should look like this: 
+![step 6 screenshot](/Images/Step6-optional.png)
 
 2. repeat step 6 to create the (⇧⌘X) shortkey for your urban dictionary loopup script.</br>
 </br>
@@ -83,7 +88,8 @@ creating a combination (sequence) of both;
 Now you can also create a script now that invokes both these scripts in a sequence, for when you do not know if it is a slang a just a different language, and assign this to ⇧⌘C.
 
 Repeat 1 and 2 -again- but now find and pull your two existing scripts (OuiOuiBaguette.workflow and Cardi_B_said.workflow from the left column to the right (where before we put the 'run applescript' and the 'website popup')</br>
-This should look like this: [step 7 screenshot](/Images/Step7-optional.png)
+This should look like this: 
+![step 7 screenshot](/Images/Step7-optional.png)
 
  Go to 'file' and 'save' (in the menu bar) and then you can give this 3rd workflow script a name (e.g. BabelFish.workflow (because one should always use a hitchhiker's guide reference when even somewhat possible :P )) and save it.</br>
 </br>
