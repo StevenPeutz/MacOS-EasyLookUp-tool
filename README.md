@@ -1,4 +1,4 @@
-# MacOS-easy_translate
+# MacOS EasyLookUp
 Script and instructions to create **google translate shortkey for MacOS** that works on High-Sierra and Catalina. </br>
 No more copy pasting, opening a browser tab , going to google translate etc etc. </br>MacOS Automator script (worklfow) + google translate(+urban dictionary) + shortkey binding.</br>
 </br>
