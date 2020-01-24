@@ -1,6 +1,18 @@
 # Shortcutting manually translating in Mac OS Catalina (regardless of browser) #
 
+UPDATE: alternative is downloading (under 'downloads') the .workflow files. After downloading, doubleclick these files and your operating system will ask if you want to use these as workflows. Click yes. Now you can find them under system preferences > keyboard > services to give them the desired shortkey (see step 6).</br>
+OuiOuiBaguette -> Google Translate -> CTRL CMD Z </br>
+OuiOuiBaguette -> Urban Dictionary -> CTRL CMD X </br>
+OuiOuiBaguette -> google.com -> CTRL CMD C </br>
+(or use the touchbar!)
+
+
 ### How to set it up; ###
+
+
+
+
+
 The Google translate part</br>
 
 1. Open up 'Automator' (open spotlight (⌘+ Spacebar) and then search for 'automator')</br>
