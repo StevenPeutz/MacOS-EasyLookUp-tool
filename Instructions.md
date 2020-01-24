@@ -1,4 +1,4 @@
-# Shortcutting manually translating in Mac OS Catalina (regardless of browser) #
+# EasyLookUp in Mac OS Catalina (regardless of browser) #
 
 UPDATE: alternative is downloading (under 'downloads') the .workflow files. After downloading, doubleclick these files and your operating system will ask if you want to use these as workflows. Click yes. Now you can find them under system preferences > keyboard > services to give them the desired shortkey (see step 6).</br>
 OuiOuiBaguette -> Google Translate -> CTRL CMD Z </br>
