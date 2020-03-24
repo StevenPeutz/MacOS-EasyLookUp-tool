@@ -113,10 +113,10 @@ I would appreciate it greatly ***
 
 **For who is this?**
 Anyone who uses MacOS and is tired of copy pasting in new tabs in their browser to go to google translate or urban dictionary.
-</br>
+</br>  
 **Where are the script located after saving etc?**
 Finder > Home > Library > Services. (If there is no 'Library' folder within your 'Home' folder, go to your home folder and fo to 'view' in the menubar and click 'show view options' and select the option to display the Library folder.)
-</br>
+</br>  
 **I want the google translation to be in some other language than English.**
 The parameter 'tl' is here set to 'en' (english) but this can be replaced to language of choice (just look up the google translate language code ([find here](https://cloud.google.com/translate/docs/languages))) and change it in the script.
 
@@ -124,7 +124,7 @@ The parameter 'tl' is here set to 'en' (english) but this can be replaced to lan
   set output to "http://translate.google.com/translate_t?sl=auto&tl=en&text=".....
 ```
 
-</br>
+</br>  
 **The scripts (after clicking install) do still not all show up under ‘shortcuts’ > ‘services’ (step 3.)**
 If this is the case you should right click the file (see question above for location of scripts) in finder and choose ‘open with atom’. This  should open a folder with two scripts, go to the second one (named inf.plist) and check whether the name used in that script is exactly the same as the name of the workflow file itself.
 </br>
