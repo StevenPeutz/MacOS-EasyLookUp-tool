@@ -42,10 +42,10 @@ The unzipped file should contain 4 files:
 * *Optional (for Spanish language slangs):  ‘ELU_AsiHablamos’ (Queries asihablamos)*
 </br>
 </br>
-(1) Double click each file (non Spanish should skip ‘ELU_AsiHablamos’) and  click ‘Install’ on the prompted window.</br>
-![1](/Images/MacOS_translate_shortcut_step1.png) </br>
+(1) Double click each file (non Spanish should skip ‘ELU_AsiHablamos’) and  click ‘Install’ on the prompted window.</br>  
+![Mac_OS_Shortcuts_EasyLookUp](/Images/MacOS_translate_shortcut_step1.png) </br>
 (2) Then click the x-out in the following window</br>
-![2](/Images/MacOS_translate_shortcut_step2.png) </br>
+![Mac_OS_Shortcuts_EasyLookUp_2](/Images/MacOS_translate_shortcut_step2.png) </br>
 
 
 
@@ -61,7 +61,7 @@ Go to **Keyboard **(‘system preferences’ > keyboard) or go there directly by
 Under ‘Keyboard’ click the tab named '**shortcuts**', then in the left column select '**services**'.
 
 Now in the right (under the subheader '*text*') you should find all the scripts starting with 'ELU_'.</br>
-![3](/Images/MacOS_translate_shortcut_step3.png)</br>
+![Mac_OS_Shortcuts_EasyLookUp_3](/Images/MacOS_translate_shortcut_step3.png)</br>
 Make sure the blue box for each of the scripts starting with ‘ELU_’ is ticked and click where it says ‘none’ to **create the shortcut **as seen in the screenshot above. 
 *Surprisingly much shortcuts (especially within chrome) are reserved already which will overrule the one you create here, preventing it from working. </br>
 To prevent this use the ones listed below:*
@@ -99,7 +99,7 @@ I would appreciate it greatly ***
 
 ***Thanks!    Steven Peutz***</br>
 
-![5](/Images/cat.png)</br>
+![5](/Images/Cat.png)  </br>
 
 </br>
 </br>
