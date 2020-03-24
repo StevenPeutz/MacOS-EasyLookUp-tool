@@ -2,7 +2,7 @@
 
 ## **Easier and faster to Google Translate, Urban dictionary and wikipedia (through duckduckgo) without tab-switching.**
 
-![EasyLookUp](/images/MacOS_GoogleTranslate_shortcut.png)
+![MacOS_GoogleTranslate_shortcut.png](/images/MacOS_GoogleTranslate_shortcut.png)
 
 ## How does it work when installed?
 
