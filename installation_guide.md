@@ -13,7 +13,7 @@ When installed, the EasyLookUp tool works by;
 * highlighting the desired name and pressing **⌃⌘C**  will get you wikipedia and SoMe results for the individual
 </br>
 </br>
-**The EasyLookUp tool works within Chrome, Safari, Firefox, Brave, google docs, Quip, Notes and some other applications**
+**The EasyLookUp tool works within Chrome, Safari, Firefox, Brave, google docs, Quip, Notes and some other applications**  
 
 
 
@@ -42,10 +42,10 @@ The unzipped file should contain 4 files:
 * *Optional (for Spanish language slangs):  ‘ELU_AsiHablamos’ (Queries asihablamos)*
 </br>
 </br>
-(1) Double click each file (non Spanish should skip ‘ELU_AsiHablamos’) and  click ‘Install’ on the prompted window.
-![1](/Images/MacOS_translate_shortcut_step1.png)</br>
+(1) Double click each file (non Spanish should skip ‘ELU_AsiHablamos’) and  click ‘Install’ on the prompted window.</br>
+![1](/Images/MacOS_translate_shortcut_step1.png) </br>
 (2) Then click the x-out in the following window</br>
-![2](/Images/MacOS_translate_shortcut_step2.png)</br>
+![2](/Images/MacOS_translate_shortcut_step2.png) </br>
 
 
 
