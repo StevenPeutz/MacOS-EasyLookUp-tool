@@ -2,7 +2,7 @@
 
 ## **Easier and faster to Google Translate, Urban dictionary and wikipedia (through duckduckgo) without tab-switching.**
 
-![MacOS_GoogleTranslate_shortcut.png](/images/MacOS_GoogleTranslate_shortcut.png)
+![MacOS_GoogleTranslate_shortcut tool](/Images/MacOS_GoogleTranslate_shortcut.png)
 
 ## How does it work when installed?
 
@@ -44,9 +44,9 @@ The unzipped file should contain 4 files:
 
 
 (1) Double click each file (non Spanish should skip ‘ELU_AsiHablamos’) and  click ‘Install’ on the prompted window.
-![1](/images/MacOS_translate_shortcut_step1.png)
+![1](/Images/MacOS_translate_shortcut_step1.png)
 (2) Then click the x-out in the following window
-![2](/images/MacOS_translate_shortcut_step2.png)
+![2](/Images/MacOS_translate_shortcut_step2.png)
 
 
 
@@ -62,7 +62,7 @@ Go to **Keyboard **(‘system preferences’ > keyboard) or go there directly by
 Under ‘Keyboard’ click the tab named '**shortcuts**', then in the left column select '**services**'.
 
 Now in the right (under the subheader '*text*') you should find all the scripts starting with 'ELU_'.
-![3](/images/MacOS_translate_shortcut_step3.png)
+![3](/Images/MacOS_translate_shortcut_step3.png)
 Make sure the blue box for each of the scripts starting with ‘ELU_’ is ticked and click where it says ‘none’ to **create the shortcut **as seen in the screenshot above. 
 *Surprisingly much shortcuts (especially within chrome) are reserved already which will overrule the one you create here, preventing it from working. To prevent this use the ones listed below:*
 
@@ -81,7 +81,7 @@ Make sure the blue box for each of the scripts starting with ‘ELU_’ is ticke
 **Congratulations! **You have set up a convenient lookup tool that will work in any browser and most other applications as preview, Google Docs, Quip, Notes etc.
 
 Take it for a spin now or just try it when working queues;
-![4](/images/MacOS_GoogleTranslate_shortcut.png)
+![4](/Images/MacOS_GoogleTranslate_shortcut.png)
 * highlight text and press **⌃⌘Z**  = google translate
 * highlight text and press **⌃⌘X**  = urban dictionary
 * highlight text and press **⌃⌘C**  = duckduckgo search some SoMe and wiki parameters
@@ -99,7 +99,7 @@ I would appreciate it greatly ***
 
 ***Thanks!    Steven Peutz***
 
-![5](/images/cat.png)
+![5](/Images/cat.png)
 
 
 
