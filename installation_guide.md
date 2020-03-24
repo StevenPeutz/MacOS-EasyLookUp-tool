@@ -95,11 +95,11 @@ Take it for a spin now or just try it when working queues;
 
 
 
-* * *
 ***Hi!
 
 If you enjoy using this, if these scripts and setup guide has helped you, or if you have tips how to make it better please send me an email with your feedback or questions!
-I would appreciate it greatly ***
+I would appreciate it greatly ***  
+
 
 
 ***Thanks!    Steven Peutz***</br>
