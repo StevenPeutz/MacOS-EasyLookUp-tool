@@ -1,4 +1,4 @@
-# EasyLookUp Descripion and Installation Guide.
+# EasyLookUp README and Installation Guide.
 
 ## **Easier and faster to Google Translate, Urban dictionary and wikipedia (through duckduckgo) without tab-switching.**
 
