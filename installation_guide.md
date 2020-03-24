@@ -1,4 +1,4 @@
-# EasyLookUp //big bang description format
+# EasyLookUp Descripion and Installation Guide.
 
 ## **Easier and faster translation, slang and people lookup without tab-switching.
 **
