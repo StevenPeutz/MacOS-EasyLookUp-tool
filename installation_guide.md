@@ -43,9 +43,9 @@ The unzipped file should contain 4 files:
 </br>
 </br>
 (1) Double click each file (non Spanish should skip ‘ELU_AsiHablamos’) and  click ‘Install’ on the prompted window.</br>  
-![Mac_OS_Shortcuts_EasyLookUp](/Images/MacOS_translate_shortcut_step1.png) </br>
+ ![Mac_OS_Shortcuts_EasyLookUp](/Images/MacOS_translate_shortcut_step1.png) </br>
 (2) Then click the x-out in the following window</br>
-![Mac_OS_Shortcuts_EasyLookUp_2](/Images/MacOS_translate_shortcut_step2.png) </br>
+ ![Mac_OS_Shortcuts_EasyLookUp_2](/Images/MacOS_translate_shortcut_step2.png) </br>
 
 
 
@@ -81,7 +81,7 @@ To prevent this use the ones listed below:*
 **Congratulations! **You have set up a convenient lookup tool that will work in any browser and most other applications as preview, Google Docs, Quip, Notes etc.
 
 Take it for a spin now or just try it when working queues;
-![4](/Images/MacOS_GoogleTranslate_shortcut.png)
+![Google_Translate_Shortcut_tool](/Images/MacOS_GoogleTranslate_shortcut.png)
 * highlight text and press **⌃⌘Z**  = google translate
 * highlight text and press **⌃⌘X**  = urban dictionary
 * highlight text and press **⌃⌘C**  = duckduckgo search some SoMe and wiki parameters
@@ -99,7 +99,7 @@ I would appreciate it greatly ***
 
 ***Thanks!    Steven Peutz***</br>
 
-![5](/Images/Cat.png)  </br>
+![5](/Images/cat)  </br>
 
 </br>
 </br>
