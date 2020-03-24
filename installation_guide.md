@@ -92,6 +92,9 @@ Take it for a spin now or just try it when working queues;
 * highlight text and press **⌃⌘C**  = duckduckgo search some SoMe and wiki parameters
 * *highlight text and press ****⌃⌘V****  = asihablamos (for Spanish slangs/urban speak)*  
 
+</br>  
+
+</br>  
 
 
 
@@ -126,7 +129,8 @@ The parameter 'tl' is here set to 'en' (english) but this can be replaced to lan
   set output to "http://translate.google.com/translate_t?sl=auto&tl=en&text=".....
 ```
 
-</br>  
+  
+  
 **The scripts (after clicking install) do still not all show up under ‘shortcuts’ > ‘services’ (step 3.)**
 If this is the case you should right click the file (see question above for location of scripts) in finder and choose ‘open with atom’. This  should open a folder with two scripts, go to the second one (named inf.plist) and check whether the name used in that script is exactly the same as the name of the workflow file itself.
 </br>
