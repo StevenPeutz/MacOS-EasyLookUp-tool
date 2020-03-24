@@ -45,6 +45,7 @@ The unzipped file should contain 4 files:
 </br>
 </br>
 (1) Double click each file (non Spanish should skip ‘ELU_AsiHablamos’) and  click ‘Install’ on the prompted window.  
+
 ![Mac_OS_Shortcuts_EasyLookUp](/Images/MacOS_translate_shortcut_step1.png)  
 
 (2) Then click the x-out in the following window</br>
