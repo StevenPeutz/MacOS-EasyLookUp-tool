@@ -90,7 +90,8 @@ Take it for a spin now or just try it when working queues;
 * highlight text and press **⌃⌘Z**  = google translate
 * highlight text and press **⌃⌘X**  = urban dictionary
 * highlight text and press **⌃⌘C**  = duckduckgo search some SoMe and wiki parameters
-* *highlight text and press ****⌃⌘V****  = asihablamos (for Spanish slangs/urban speak)*
+* *highlight text and press ****⌃⌘V****  = asihablamos (for Spanish slangs/urban speak)*  
+
 
 
 
