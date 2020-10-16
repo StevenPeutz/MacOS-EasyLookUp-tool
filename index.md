@@ -11,14 +11,13 @@ When installed, the EasyLookUp tool works by;
 * highlighting the desired text and pressing  **⌃⌘Z**  will get you the  google translate translation and language.
 * highlighting the desired text/slang and pressing **⌃⌘X**  will get you urban dictionary’s explanation of the slang
 * highlighting the desired name and pressing **⌃⌘C**  will get you wikipedia and SoMe results for the individual
-</br> 
+</br>
 </br>  
 
 **The EasyLookUp tool works within Chrome, Safari, Firefox, Brave, google docs, Quip, Notes and some other applications**  
 
 
-</br> 
-</br>
+
 
 
 
@@ -58,8 +57,7 @@ The unzipped file should contain 4 files:
 Repeat this this for the remaining files. *(double click  the file, click install, click x-out)*</br>
 
 </br>
-</br> 
-</br>
+
 
 ## Final Step:  linking the scripts to shortcuts
 
@@ -79,8 +77,7 @@ To prevent this use the ones listed below:*
 * *Optional (Spanish language):  set ****⌃⌘V**** (Control+Command+V) for ‘ELU_AsiHablamos’*
 </br>
 </br>
-</br> 
-</br>
+
 
 
 
@@ -111,7 +108,7 @@ I would appreciate it greatly ***
 
 ***Thanks!    Steven Peutz***</br>
 
-</br>
+![5](/Images/cat)  </br>
 
 </br>
 </br>  
