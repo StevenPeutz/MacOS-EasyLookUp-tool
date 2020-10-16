@@ -11,7 +11,7 @@ When installed, the EasyLookUp tool works by;
 * highlighting the desired text and pressing  **⌃⌘Z**  will get you the  google translate translation and language.
 * highlighting the desired text/slang and pressing **⌃⌘X**  will get you urban dictionary’s explanation of the slang
 * highlighting the desired name and pressing **⌃⌘C**  will get you wikipedia and SoMe results for the individual
-</br>
+</br> 
 </br>  
 
 **The EasyLookUp tool works within Chrome, Safari, Firefox, Brave, google docs, Quip, Notes and some other applications**  
